@@ -1,5 +1,10 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ...
+### I'm Le Quoc Dat Thank You for taking the time to view my GitHub Profile :smile: 
+- 🌱 I’m currently learning at FPT University
+- 😼 I'm currently researching for Spring Framework, ReactJS
+- 🤔 I’m looking for help with all about Spring and React(JS and Native)
+- <br/>
+- 📫 How to reach me [GitHub](https://github.com/dat0609) [Facebook](https://www.facebook.com/dat09.dz)
 <!--
 **dat0609/dat0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
