@@ -7,7 +7,7 @@
 ### Contact me via
 - 📫 How to reach me [GitHub](https://github.com/dat0609) [Facebook](https://www.facebook.com/dat09.dz) or Email: dathaha2000@gmail.com
 
-Thanks for watching my profile! Have a nice day browsing my repos! <br>
+Thanks for watching my profile! Have a nice day browsing my repos! </br> </br>
 ![](https://komarev.com/ghpvc/?username=dat0609)
 <!--
 **dat0609/dat0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
