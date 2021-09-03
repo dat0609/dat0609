@@ -5,8 +5,7 @@
 - 🤔 I’m looking for help with all about Spring and React (JS and Native)
 - ⚡ Fun fact: ...
 ### Contact me via
-- 📫 How to reach me: 
--- [GitHub](https://github.com/dat0609) <br> [Facebook](https://www.facebook.com/dat09.dz) <br> or Email: dathaha2000@gmail.com
+- 📫 How to reach me: [GitHub](https://github.com/dat0609) <br> [Facebook](https://www.facebook.com/dat09.dz) <br> or Email: dathaha2000@gmail.com
 
 Thanks for watching my profile! Have a nice day browsing my repos! <br> <br>
 ![](https://komarev.com/ghpvc/?username=dat0609)
